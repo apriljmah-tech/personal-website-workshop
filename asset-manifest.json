@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apriljmah-tech/personal-website-workshop/static/css/main.915af7ca.css",
+    "main.js": "/apriljmah-tech/personal-website-workshop/static/js/main.a70fcf2d.js",
+    "static/js/453.fd65e502.chunk.js": "/apriljmah-tech/personal-website-workshop/static/js/453.fd65e502.chunk.js",
+    "index.html": "/apriljmah-tech/personal-website-workshop/index.html",
+    "main.915af7ca.css.map": "/apriljmah-tech/personal-website-workshop/static/css/main.915af7ca.css.map",
+    "main.a70fcf2d.js.map": "/apriljmah-tech/personal-website-workshop/static/js/main.a70fcf2d.js.map",
+    "453.fd65e502.chunk.js.map": "/apriljmah-tech/personal-website-workshop/static/js/453.fd65e502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915af7ca.css",
+    "static/js/main.a70fcf2d.js"
+  ]
+}
